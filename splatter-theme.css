@@ -1,0 +1,6 @@
+@charset "utf-8";
+/*
+ * Themes only
+ */
+@import "./themes/light.css";
+@import "./themes/dark.css";

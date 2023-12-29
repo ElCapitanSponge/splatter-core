@@ -1,0 +1,13 @@
+/*
+ * Splatter core only
+ */
+@charset "utf-8";
+/*
+ * Reset
+ */
+@import "./core/_reset.css";
+/*
+ * Core/Base
+ */
+@import "./core/_variables.css";
+@import "./core/_base.css";
