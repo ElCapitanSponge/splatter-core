@@ -95,7 +95,7 @@
   width: var(--width-12);
 }
 
-@media (min-width: var(--sm)) {
+@media screen and (min-width: 576px) {
   .sm_col_1 {
     width: var(--width-1);
   }
@@ -145,7 +145,7 @@
   }
 }
 
-@media (min-width: var(--md)) {
+@media (min-width: 768px) {
   .md_col_1 {
     width: var(--width-1);
   }
@@ -195,7 +195,7 @@
   }
 }
 
-@media (min-width: var(--lg)) {
+@media (min-width: 992px) {
   .lg_col_1 {
     width: var(--width-1);
   }
@@ -245,7 +245,7 @@
   }
 }
 
-@media (min-width: var(--xl)) {
+@media (min-width: 1200px) {
   .xl_col_1 {
     width: var(--width-1);
   }
@@ -295,7 +295,7 @@
   }
 }
 
-@media (min-width: var(--xxl)) {
+@media (min-width: 1400px) {
   .xxl_col_1 {
     width: var(--width-1);
   }
