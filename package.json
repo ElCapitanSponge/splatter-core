@@ -2,7 +2,9 @@
   "name": "splatter-core",
   "version": "1.0.0",
   "description": "",
-  "scripts": {},
+  "scripts": {
+        "format": "pnpm exec prettier ./**/*.css --write"
+  },
   "keywords": [],
   "author": "ElCapitanSponge",
   "license": "APACHE-2.0",
